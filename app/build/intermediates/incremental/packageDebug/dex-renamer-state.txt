@@ -1,0 +1,7 @@
+#Mon Sep 18 12:45:09 EDT 2017
+base.0=/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f71c1fb8a1f743100c7d7c9c91a573e6b2ce7a0c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ad0e894599968db064982fe1034d9cb3fcbebaf/classes.dex
+base.1=/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6ad0e894599968db064982fe1034d9cb3fcbebaf
+file.0=/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f71c1fb8a1f743100c7d7c9c91a573e6b2ce7a0c/classes.dex

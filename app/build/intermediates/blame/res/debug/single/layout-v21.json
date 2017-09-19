@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

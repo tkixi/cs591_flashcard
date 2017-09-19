@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/Tkixi/Desktop/CS591/TonyFlashCards/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/Tkixi/.android/build-cache/a46f434abd9e332804272a3409d916ef36a3c5b0/output/res/layout-v11/notification_media_action.xml"
+    }
+]
