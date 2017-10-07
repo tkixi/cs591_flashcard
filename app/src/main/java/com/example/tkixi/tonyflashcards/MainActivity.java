@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 while(x) {
                     dividend = r.nextInt(99) + 1;
                     divisor = r.nextInt(99) + 1;
-
                     if (dividend % divisor == 0) {
                         break;
 
@@ -65,9 +64,11 @@ public class MainActivity extends AppCompatActivity {
         });
         btnSubmit.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {if (txtUserInput.getText().toString().trim().length() == 0) {
+            public void onClick(View v) {
+                if (txtUserInput.getText().toString().trim().length() == 0) {
                 Toast.makeText(getBaseContext(), "Please enter a number", Toast.LENGTH_SHORT).show();
-            } else {
+                 }
+                else {
                 String Input;
                 Input = txtUserInput.getText().toString();
                 if (strToInt(Input) == (dividend / divisor)) {
